@@ -2,7 +2,7 @@
 
 [Project index](README.md) · [Work plan](WORK_PLAN.md) · [Current requirements](docs/CURRENT_REQUIREMENTS.md)
 
-**Verified October 3, 2026, evening Eastern time.** This tracker separates submitted content, review, merge, assignment completion, fork sync, and Canvas submission. Work not present in main may exist in a member's local copy.
+**Verified October 6, 2026, evening Eastern time.** This tracker separates submitted content, review, merge, assignment completion, fork sync, and Canvas submission. Work not present in main may exist in a member's local copy.
 
 ## Merged contributions
 
@@ -10,7 +10,7 @@ Ahmet authorized the merges in this chat. The files received an agent-assisted c
 
 | Member | Merged work | PR and merge commit | Remaining work under the agreed allocation |
 | --- | --- | --- | --- |
-| Timothy Bailey | Explorer and Hero research drafts | [#7](https://github.com/ahmet360/archetype_design_persusion/pull/7), `18753225c2b4febda0c041fa16d5fb13b3ca3af8` | All eight research drafts now exist across main and open PRs: six pending topics covered by #15 and #16; definition sources, historical records, original designs, and peer review remain. Contribution/reflection file exists only in Tim's fork and is not in these PRs |
+| Timothy Bailey | Explorer and Hero research drafts | [#7](https://github.com/ahmet360/archetype_design_persusion/pull/7), `18753225c2b4febda0c041fa16d5fb13b3ca3af8` | All eight research drafts exist across main and open PRs. New #27 combines the six pending topics and contribution/reflection file with eight real issue links. Named About page remains a template; definition sources, historical records, original designs, and student peer review remain |
 | Jeshan Ahmad | Innocent research; Creator-focused personal draft | [#3](https://github.com/ahmet360/archetype_design_persusion/pull/3), `802db148fe8a3941907c39c2978b57b000ae4889`; [#6](https://github.com/ahmet360/archetype_design_persusion/pull/6), `96f0b8acbb42458964f29d72d9c0653cb1c4a97d` | Jester, Creator, Ruler, De Stijl, Constructivism, Grunge Design, New Wave remain templates; correction submitted in #10 and About revision in #11, neither merged; original designs, accurate contribution statuses, peer review |
 | Avyay Kaushik | All eight assigned research pages | [#4](https://github.com/ahmet360/archetype_design_persusion/pull/4), `d0d3dbfa4ad372a5a8aa0cd35714305243def275` | Two complete historical-example records per style, original archetype designs, About contribution record, peer review |
 | Ahmet Elci | Management role reported handled; Issues enabled and these merges authorized | October 1 user instruction and verified GitHub merge results | Coordinate unresolved ownership, remaining reviews, fork sync, and confirmed handoff; no personal topic-writing backlog assigned here |
@@ -19,9 +19,23 @@ Ahmet authorized the merges in this chat. The files received an agent-assisted c
 
 Tim's [PR #1](https://github.com/ahmet360/archetype_design_persusion/pull/1) was closed unmerged as redundant: its Explorer file is identical to the Explorer content merged through #7. Its wrong base branch is no longer a merge blocker. Jeshan's older #2 and #5 are also closed unmerged; #3 and #6 are the retained versions.
 
-## New submissions awaiting management review
+## October 6 update: Timothy's combined PR
 
-Main remains at `7b52af237e148c2b0ba4a9d1d1030bbcb3196f50` before this tracker update; no contribution merge has occurred since October 1. All 35 topic/member files are unchanged from the previous verified main. These new contributions are **submitted and agent-reviewed, not merged or complete**:
+[PR #27](https://github.com/ahmet360/archetype_design_persusion/pull/27), head `a3dd2aa30f17480ccffe76ea04f3e9ff97a9dd79`, submits seven files: Outlaw, Sage, Bauhaus, Swiss Modernism, Pop Art, Memphis Design, and `timothy_completed_work_and_refelction.md`. GitHub reports it clean and mergeable. It is submitted and agent-reviewed, **not merged or coursework-complete**.
+
+All six research file blobs exactly match the previously reviewed submissions. Unlike either #15 or #16 alone, #27 preserves both Pop Art and Memphis; it now provides one combined integration candidate for a future authorized merge. The older PRs remain open and unchanged. No contribution merge has occurred since October 1; main was `b708b40b1755885c6cf6b892ef78407d6eb186ee` before this tracker update. Unchanged topic files were not re-reviewed.
+
+The reflection now links eight real group issues, #19–#26, one per assigned topic. Timothy created and closed these on October 6. Their descriptions are brief population tasks, with no assigned reviewer or substantive review record. Treat them as retrospective contribution records, not evidence of earlier planning or completed assignment requirements. His table distinguishes the #7 group merge from merges into his own fork, but the broad “Done” labels and October 2 completion timestamp remain member reports.
+
+**Required follow-up for #27:** reconcile the root reflection with the indexed `members/timothy_bailey.md`, which is still a template even at this PR head. Add the short introduction, a sentence describing each issue contribution, precise research-submitted/merged statuses, reflection, and appropriate credits. The root file is not linked from the member index. Completing it does not require the superseded AI interview.
+
+The earlier research findings still apply: Outlaw's definition source, two complete historical-work records for each of the four styles, and the Memphis decorative-image guidance and “Sottsass” spelling. Required original archetype designs are absent. Sourcery submitted a COMMENTED review with approval pending and five findings, including reduced-motion guidance; its separate successful check says no blocking security issues, not that content findings are resolved. Only the bot review was present; no student peer review was verified.
+
+Jeshan's #10/#11 and Avyay's merged draft work and remaining requirements are unchanged. SMS still has no message newer than Timothy's October 1, 5:28 PM acknowledgement. No reminder was sent.
+
+## Earlier submissions awaiting management review
+
+At the October 3 check, main was `7b52af237e148c2b0ba4a9d1d1030bbcb3196f50` before that tracker update, and all 35 topic/member files matched the prior main. The following PR heads are still unchanged on October 6. These contributions are **submitted and agent-reviewed, not merged or complete**:
 
 | PR | Owner and content | Verified head | Review result / next action |
 | --- | --- | --- | --- |
@@ -38,7 +52,7 @@ The October 2 check found #9/#10/#11/#12/#13 clean and mergeable; their heads an
 
 Jeshan's #11 remains unchanged, including the earlier bot comment with approval pending. Its main finding refers to old progress text on the contributor branch: current group main already records #6's merge, and #11 only changes the member file. Do not overwrite the current tracker with old branch text.
 
-The earlier Tim sequence runs #9 → #12 → #13 → #14, then splits into #15 (Pop Art) and #16 (Memphis). Both leaf PRs share the same four file blobs, but neither contains the other's final style page. Review #15 and #16 together and preserve both unique files if a later user-authorized merge proceeds. No PR was merged or closed during this check.
+The earlier Tim sequence runs #9 → #12 → #13 → #14, then splits into #15 (Pop Art) and #16 (Memphis). Both leaf PRs share the same four file blobs, but neither contains the other's final style page. As of October 6, #27 combines both unique pages plus the reflection; prefer evaluating that combined candidate for a future authorized integration while preserving the older PR history. No PR was merged or closed during this check.
 
 ## Review follow-ups
 
@@ -54,11 +68,11 @@ The content review checked all substantive drafts and internal navigation. Some 
 
 ## About files and issue tracking
 
-Tim added [a completed-work/reflection file in his fork](https://github.com/Timothy-Bailey4-10/archetype_design_persusion/blob/cabb1863ae9d87d3442243425412145d70b3a9c8/timothy_completed_work_and_refelction.md). It accurately distinguishes work merged into his own fork from #7's group merge, but its claim that the topics are “Done” is a member report, not verified satisfaction of every assignment requirement. This file is not included in open group PR #15 or #16; Tim should submit it through a PR and reconcile it with his existing named About page, adding real issue links, introduction, and required contribution detail.
+Tim's [completed-work/reflection file](https://github.com/Timothy-Bailey4-10/archetype_design_persusion/blob/a3dd2aa30f17480ccffe76ea04f3e9ff97a9dd79/timothy_completed_work_and_refelction.md) is now submitted in #27. It distinguishes work merged into his own fork from #7's group merge and adds eight verified issue links. Its “Done” labels do not establish satisfaction of every assignment requirement. Reconcile it with the existing named About page and supply the missing introduction, contribution sentences, accurate statuses, and credits.
 
 The [members folder](members/README.md) already contains a named file for each member. The October 1 assignment requires introduction, real issue links with contribution statuses, learning reflection, and credits. Earlier personal-archetype interviews are optional.
 
-GitHub Issues were enabled October 1. Two open group issues are now present: Tim's [#17, definition citations](https://github.com/ahmet360/archetype_design_persusion/issues/17), and [#18, request to review and merge his work](https://github.com/ahmet360/archetype_design_persusion/issues/18). These are reports/requests, not proof that the citations were added or authority for this scheduled check to merge. Jeshan's linked fork issue #4 is real, open, and was created October 1. Its body uses a literal `(url)` Markdown target rather than the intended page URL; repair that issue link in the fork when possible. Record actual owners, reviewers, files, checklists, and contribution statuses; do not backdate issues or invent planning history.
+GitHub Issues were enabled October 1. On October 6, eight newly created/closed topic-population records (#19–#26) were verified, in addition to two unchanged open group issues: Tim's [#17, definition citations](https://github.com/ahmet360/archetype_design_persusion/issues/17), and [#18, request to review and merge his work](https://github.com/ahmet360/archetype_design_persusion/issues/18). These are reports/requests, not proof that the citations were added or authority for this scheduled check to merge. Jeshan's linked fork issue #4 is real, open, and was created October 1. Its body uses a literal `(url)` Markdown target rather than the intended page URL; repair that issue link in the fork when possible. Record actual owners, reviewers, files, checklists, and contribution statuses; do not backdate issues or invent planning history.
 
 ## Fork synchronization
 
@@ -66,24 +80,26 @@ The instructor's main at `213f4308518789688bc2861744b9c1de45a179c3` is included 
 
 On October 3, **Jeshan's fork main exactly matched group main** at `7b52af237e148c2b0ba4a9d1d1030bbcb3196f50`, before this tracker update.
 
-Tim's fork main contains all group commits plus eight additional commits. Six populate the pending research topics and two add/update his contribution/reflection file. The six topic-file blobs match his group PR submissions. His fork head is `cabb1863ae9d87d3442243425412145d70b3a9c8`; its additions are not merged into the group merely because he integrated them in his fork.
+On October 6, Tim's fork main is `a3dd2aa30f17480ccffe76ea04f3e9ff97a9dd79`, with nine fork-only commits: six topic-population commits and three reflection commits. It lacks only group tracker commit `b708b40b1755885c6cf6b892ef78407d6eb186ee` before this update, so its substantive group synchronization has not regressed. All six topic blobs match the earlier PRs; the newest reflection commit adds the issue links. These additions are not merged into the group merely because he integrated them in his fork. Jeshan likewise lacks only that tracker commit; his substantive group work remains synchronized.
 
-Avyay's fork main still lacks substantive group updates (48 commits behind at this check). The connected account cannot push to teammates' forks. Avyay must sync from group main; after contribution merges, contributors should sync again. Do not force-reset Tim's extra work. A tracker-only commit does not invalidate verified synchronization of substantive work. Follow [CONTRIBUTING.md](CONTRIBUTING.md#sync-your-fork-after-group-merges).
+Avyay's fork main still lacks substantive group updates (49 commits behind before this October 6 tracker update, including the October 3 tracker-only commit). The connected account cannot push to teammates' forks. Avyay must sync from group main; after contribution merges, contributors should sync again. Do not force-reset Tim's extra work. A tracker-only commit does not invalidate verified synchronization of substantive work. Follow [CONTRIBUTING.md](CONTRIBUTING.md#sync-your-fork-after-group-merges).
 
 ## Member reports and communication
 
 In the SMS conversation “Is117 group project,” Jeshan reported his Innocent submission September 30 and asked that patch 2 be used; Avyay reported his submission that night. Tim reported additional work planned October 1 and asked for named contribution files, the instructor update, and a merge notice. The newer PR evidence above supersedes older reports that only Explorer existed or Jeshan's personal page was still unsubmitted.
 
-Ahmet posted the revised design and About-page requirements in the group on October 1 at 5:26 PM Eastern. Timothy acknowledged them at 5:28 PM. The October 3 read again found no newer messages in that group conversation. Tim's new progress and merge request were found in GitHub PRs, his fork, and issues #17/#18.
+Ahmet posted the revised design and About-page requirements in the group on October 1 at 5:26 PM Eastern. Timothy acknowledged them at 5:28 PM. The October 6 read again found no newer messages in that group conversation. Today's new reflection submission and retrospective issue records were found in GitHub #27 and #19–#26.
 
-Last automated reminder verified sent: **September 30 at 6:04 PM Eastern**. No messages were sent during the October 1, October 2, or October 3 checks. Ahmet requested reply drafts to send himself.
+Last automated reminder verified sent: **September 30 at 6:04 PM Eastern**. No messages were sent during the October 1 through October 6 checks. Ahmet requested reply drafts to send himself.
 
 ## Deadline and handoff
 
 Re-read [Canvas Part 1](https://njit.instructure.com/courses/70711/assignments/761949) on October 3: it still lists **October 2, 2026, at 11:59 PM Eastern**, website URL submission, and says each member submits their own fork updated to match the leader. The visible action remains “Start Assignment”; no submission receipt was observed. The displayed deadline has passed, but no claim is made about a teammate's personal Canvas status.
 
+An October 4 live Canvas gradebook check also showed Part 1 missing with no submission timestamp; this was reported to Ahmet in the homework review. Canvas was not re-read on October 6, and no final submission confirmation has been received.
+
 The instructor main remains at `213f4308518789688bc2861744b9c1de45a179c3`, whose assignment says the lead submits. Confirm any newer instructor arrangement and the submission route. Canvas does not separately enumerate which project stages its Part 1 label covers; do not invent that scope.
 
-Management next steps: respond to Tim's merge request with the required corrections; preserve the unique pages in both #15 and #16; obtain a PR for his fork-only reflection; review Jeshan #10/#11; coordinate Avyay's sync; and verify Canvas receipt/status. Seven persuasion pages still need agreed ownership; no new owner is assigned here.
+Management next steps: review Tim's combined #27 and request the About-page and remaining research corrections; its seven-file diff preserves both Pop Art and Memphis and includes his reflection. Review Jeshan #10/#11, coordinate Avyay's substantive fork sync, and verify Canvas receipt/status. Seven persuasion pages still need agreed ownership; no new owner is assigned here.
 
 No final Canvas receipt or final coursework completion is asserted. Ahmet's report that his manager role is handled is not a submission receipt. No merges, collaborator additions, coursework submissions, or external messages were performed by this check.
