@@ -2,13 +2,15 @@
 
 [Project index](../README.md) · [Current assignment](../assignment.md) · [About-page template](../reference/page-templates.md#about-page)
 
-The October 1 assignment requires an About page: full name and short introduction; links to real GitHub issues with each contribution and its status; a learning reflection; and credits where appropriate. The older personal-archetype interview is optional. Preserve any personal writing already submitted, then add the current required fields.
+The October 1 assignment requires a full name and short introduction, links to real issues with a sentence describing each contribution and its status, a learning reflection, and credits. Earlier personal-archetype interviews are optional.
 
-| Member | Existing file | Verified status |
+| Member | About page | Verified status on October 10 |
 | --- | --- | --- |
-| Ahmet Elci | [About page](ahmet_elci.md) | Manager role reported handled; existing template is not a verified submission receipt |
-| Timothy Bailey | [About page](timothy_bailey.md) | File exists; still a template |
-| Jeshan Ahmad | [About page](jeshan_ahmad.md) | Creator-focused personal draft merged in [PR #6](https://github.com/ahmet360/archetype_design_persusion/pull/6); issue links and learning reflection still needed |
-| Avyay Kaushik | [About page](avyay_kaushik.md) | File exists; still a template |
+| Ahmet Elci | [About page](ahmet_elci.md) | Manager introduction, real issue links, user-provided reflection, and credits recorded. Canvas verification remains open in issue #28. |
+| Timothy Bailey | [About page](timothy_bailey.md) | Submitted reflection and eight real issue records integrated into the named page; research drafts merged. Full topic requirements and student review remain. |
+| Jeshan Ahmad | [About page](jeshan_ahmad.md) | Personal/About revisions #6 and #11 merged; issue link, reflection, and contribution statuses recorded. Remaining topics and student review are separate. |
+| Avyay Kaushik | [About page](avyay_kaushik.md) | Existing About file remains a template; eight research drafts are merged. |
 
-Use these files instead of creating another folder. [Issues are enabled](https://github.com/ahmet360/archetype_design_persusion/issues). Record contributions accurately; do not invent issue numbers or claim pending work is complete. [Progress tracker](../PROGRESS.md).
+[Issues](https://github.com/ahmet360/archetype_design_persusion/issues) · [Progress and remaining work](../PROGRESS.md)
+
+The manager integrated and organized submitted member writing with Codex assistance. No student peer-review completion or Canvas receipt is inferred from these statuses.
