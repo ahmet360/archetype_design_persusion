@@ -1,43 +1,36 @@
-# Timothy Bailey: personal brand archetype
+# Timothy Bailey — About
 
-[Team member index](README.md) · [My interview guide](../docs/guides/timothy-bailey.md) · [My design brief](../docs/design/timothy-bailey.md)
+[Team member index](README.md) · [Original submitted work record](../timothy_completed_work_and_refelction.md) · [Progress](../PROGRESS.md)
 
-**Status:** Template — awaiting Timothy Bailey's interview and decisions.
+## Introduction
 
-## My audience, values, and intent
+Timothy Bailey is an IS117 group contributor responsible for Explorer, Hero, Outlaw, Sage, Bauhaus, Swiss Modernism, Pop Art, and Memphis Design.
 
-_To be answered by me. Explain who I want to reach, what matters to me, and the impression I want to create._
+## Contributions and status
 
-## My chosen archetype
+The following records describe research drafts merged into the group repository. They do not mark the full topic requirements complete.
 
-_Not chosen yet. Ask the AI for candidates and reasons, challenge its assumptions, and make my own selection._
-
-## Why the AI suggested it and whether I agree
-
-_Record the recommendation accurately, then explain my agreement, disagreement, or changes in my own words._
-
-## Visual and verbal direction
-
-| Element | Proposed choice | My reason / confirmation |
+| Issue | Contribution | Verified status |
 | --- | --- | --- |
-| Imagery | To discuss | Pending |
-| Colors | To discuss | Pending |
-| Fonts | To discuss | Pending |
-| Sample phrasing | To discuss | Pending |
+| [#20 — Explorer](https://github.com/ahmet360/archetype_design_persusion/issues/20) | Researched Explorer and added its characteristics, website example, and web-design applications. | Research draft merged in #7; definition citation and original designs remain. |
+| [#19 — Hero](https://github.com/ahmet360/archetype_design_persusion/issues/19) | Researched Hero and added its characteristics, website example, and web-design applications. | Research draft merged in #7; definition citation and original designs remain. |
+| [#21 — Outlaw](https://github.com/ahmet360/archetype_design_persusion/issues/21) | Wrote the Outlaw draft with a Harley-Davidson example and design guidance. | Research draft merged in #27; definition citation and original designs remain. |
+| [#22 — Sage](https://github.com/ahmet360/archetype_design_persusion/issues/22) | Wrote the Sage draft with a framework citation, TED example, and design guidance. | Research draft merged in #27; original designs remain. |
+| [#23 — Bauhaus](https://github.com/ahmet360/archetype_design_persusion/issues/23) | Added the Bauhaus overview, characteristics, Apple example, and web-design guidance. | Research draft merged in #27; two documented historical works remain. |
+| [#24 — Swiss Modernism](https://github.com/ahmet360/archetype_design_persusion/issues/24) | Added the Swiss Modernism overview, characteristics, Spotify example, and web-design guidance. | Research draft merged in #27; two documented historical works remain. |
+| [#25 — Pop Art](https://github.com/ahmet360/archetype_design_persusion/issues/25) | Added the Pop Art overview, Coca-Cola analysis, and web-design guidance. | Research draft merged in #27; two complete historical-work records remain. |
+| [#26 — Memphis Design](https://github.com/ahmet360/archetype_design_persusion/issues/26) | Added the Memphis overview, Figma example, and web-design guidance. | Research draft merged in #27; two documented historical works remain. |
 
-## Applying persuasion to my personal brand
+[PR #7](https://github.com/ahmet360/archetype_design_persusion/pull/7) merged on October 1; [PR #27](https://github.com/ahmet360/archetype_design_persusion/pull/27) merged on October 10. The topic issues were created and closed on October 6 as retrospective population records. Their closed state does not establish full assignment completion.
 
-_Explain specific, truthful applications of Cialdini's principles to my chosen context. Identify the principle, the example, why it fits, and how it preserves the audience's ability to choose. Verify explanations with real sources._
+## Learning reflection
 
-## Sources and image credits
+The following preserves Timothy's submitted reflection:
 
-_Add only material actually consulted and credit any visuals._
+> I learned about the different brand archetypes that companies lean into to appeal to a target audience and how modernism and post-modernism can be used to appeal to the different archetypes.
 
-## Review and submission
+## Credits and review
 
-- [ ] My own choices and reasoning are recorded.
-- [ ] I can explain the archetype and persuasion examples.
-- [ ] Sources and visual credits are checked.
-- [ ] Another member reviewed the page through a PR.
-- [ ] After merge, my fork is synchronized.
-- [ ] I submitted my own fork URL to Canvas and verified the receipt.
+Research and reflection: Timothy Bailey. Sources supporting the research are recorded on the linked topic pages. The reflection is preserved from the original submitted work record; Ahmet's manager-side integration, assisted by Codex, organized it into this indexed About page and updated the verified statuses.
+
+The merged archetype drafts still need two original hero designs each. No completed student peer review, post-integration fork sync, or personal Canvas submission receipt is asserted here.
