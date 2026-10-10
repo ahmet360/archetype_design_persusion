@@ -1,8 +1,8 @@
-# Jeshan Ahmad: personal brand archetype
+# Jeshan Ahmad — About
 
 [Team member index](README.md) · [My interview guide](../docs/guides/jeshan-ahmad.md) · [My design brief](../docs/design/jeshan-ahmad.md)
 
-**Status:** Template — awaiting Jeshan Ahmad's interview and decisions.
+**Status:** Personal/About draft merged through PRs #6 and #11. Remaining topic work, student peer review, fork synchronization, and Canvas receipt are tracked separately.
 
 ## My audience, values, and intent
 
@@ -37,18 +37,17 @@ Robert Cialdini / Influence at Work, “Dr. Robert Cialdini’s Seven Principles
 
 ## Contributions and related issues
 
-- Personal page update: [Jeshan f ahmad personal archetype final updated](https://github.com/ahmet360/archetype_design_persusion/pull/6)
-- Related issue: [Filled out personal brand archetype page. #4](https://github.com/JeshanFAhmad/archetype_design_persusion/issues/4)
+- [Personal page — fork issue #4](https://github.com/JeshanFAhmad/archetype_design_persusion/issues/4): I described my Creator choice and design direction, then added contribution links and a learning reflection. These drafts are merged through [PR #6](https://github.com/ahmet360/archetype_design_persusion/pull/6) and [PR #11](https://github.com/ahmet360/archetype_design_persusion/pull/11).
+- [Innocent research — PR #3](https://github.com/ahmet360/archetype_design_persusion/pull/3): I researched the Innocent archetype and analyzed Innocent Drinks. The research draft and the section-name correction in [PR #10](https://github.com/ahmet360/archetype_design_persusion/pull/10) are merged; original designs remain. No topic-specific planning issue has been verified for this earlier contribution.
 
 ## Learning reflection
 
 I learned that Creator fits me since I like creating and having something unique in the design. In addition, I found out how to make pull requests so that my team can check the changes. For next time, I will try to describe better the connection between my design and audience.
 
-## Review and submission
+## Integration and submission status
 
-- [ ] My own choices and reasoning are recorded.
-- [ ] I can explain the archetype and persuasion examples.
-- [ ] Sources and visual credits are checked.
-- [ ] Another member reviewed the page through a PR.
-- [ ] After merge, my fork is synchronized.
-- [ ] I submitted my own fork URL to Canvas and verified the receipt.
+Jeshan authored the personal writing and reflection above. Ahmet's manager-side integration, assisted by Codex, corrected the stale status and recorded verified contribution outcomes on October 10 without changing Jeshan's chosen archetype or reflection.
+
+- Personal/About revisions and Innocent research are merged.
+- Remaining assigned research and original designs are listed in [PROGRESS.md](../PROGRESS.md).
+- Student peer review, synchronization after the October 10 integration, and a Canvas receipt have not been verified.
