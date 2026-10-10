@@ -8,7 +8,7 @@
 
 ## Overview
 
-Memphis Design is a playful, colorful design style associated with the Memphis Group, an Italian collective of designers founded in Milan in 1981 and led by Ettore Sotsass (Encyclopaedia Britannica, n.d.). The group made furniture, lamps, ceramics and textiles that rejected the plain, functional look of modernism in favor of bold color, geometric shapes and decoration. It is considered postmodernist because it deliberately breaks modernist rules such as "form follows function" and "less is more", and it treats design as expressive, humorous and emotional.
+Memphis Design is a playful, colorful design style associated with the Memphis Group, an Italian collective of designers founded in Milan in 1981 and led by Ettore Sottsass (Encyclopaedia Britannica, n.d.). The group made furniture, lamps, ceramics and textiles that rejected the plain, functional look of modernism in favor of bold color, geometric shapes and decoration. It is considered postmodernist because it deliberately breaks modernist rules such as "form follows function" and "less is more", and it treats design as expressive, humorous and emotional.
 
 ## Key characteristics
 
@@ -32,9 +32,14 @@ Figma's branding borrows the Memphis idea that simple geometric shapes and brigh
 - **Imagery:** Add animated or interactive shapes, such as floating or hover-reactive graphics, to bring the style to life. Use them sparingly so they don't distract.
 - **Content and tone:** Write short headlines with personality that match the energy of the visuals.
 - **User decisions:** The style creates a memorable, distinctive brand and appeals to creative and younger audiences. Color-coded blocks help users tell sections and actions apart.
-- **Accessibility:** Provide meaningful alternative text for illustrations and decorative shapes, so users of assistive technology get the same information.
+- **Accessibility:** Give informative illustrations a concise text alternative. Use empty `alt=""` for purely decorative images, or place them in CSS backgrounds, so screen readers can skip them ([W3C WAI](https://www.w3.org/WAI/tutorials/images/decorative/)).
+- **Reduced motion:** Keep nonessential motion optional and use `prefers-reduced-motion` to suppress it when requested; the visual identity must still work as a static layout ([W3C technique C39](https://www.w3.org/WAI/WCAG21/Techniques/css/C39)).
 
 ## Sources
 
 - Encyclopaedia Britannica. (n.d.). *Memphis Group* [Encyclopedia entry]. https://www.britannica.com/art/Memphis-Group
 - Figma. (n.d.). *Figma* [Website]. https://www.figma.com/
+
+- The Metropolitan Museum of Art. *“Carlton” Room Divider*, Ettore Sottsass, 1981. https://www.metmuseum.org/art/collection/search/486989 — consulted to verify the designer's name; no image is reproduced here.
+- W3C WAI. *Decorative Images*. https://www.w3.org/WAI/tutorials/images/decorative/
+- W3C WAI. *C39: Using the CSS prefers-reduced-motion query to prevent motion*. https://www.w3.org/WAI/WCAG21/Techniques/css/C39
