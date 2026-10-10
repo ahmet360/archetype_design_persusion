@@ -1,43 +1,26 @@
-# Ahmet Elci: personal brand archetype
+# Ahmet Elci — About
 
-[Team member index](README.md) · [My interview guide](../docs/guides/ahmet-elci.md) · [My design brief](../docs/design/ahmet-elci.md)
+[Team member index](README.md) · [Work plan](../WORK_PLAN.md) · [Progress](../PROGRESS.md)
 
-**Status:** Template — awaiting Ahmet Elci's interview and decisions.
+## Introduction
 
-## My audience, values, and intent
+I'm Ahmet Elci, the group leader for this IS117 project. My role is to coordinate the team, track contributions, review incoming work, and manage merges and conflicts. This follows the management role I reported after speaking with the professor.
 
-_To be answered by me. Explain who I want to reach, what matters to me, and the impression I want to create._
+## Contributions and status
 
-## My chosen archetype
+- [Manager integration and submission handoff — issue #28](https://github.com/ahmet360/archetype_design_persusion/issues/28): I coordinated the integration of the submitted drafts and the update of our member records, navigation, and progress tracker. The repository integration is completed; verification of the Canvas requirements and submission receipt remains in progress.
+- [Review and merge Timothy's changes — issue #18](https://github.com/ahmet360/archetype_design_persusion/issues/18): I authorized the review and integration of Timothy's six remaining research drafts and reflection through [PR #27](https://github.com/ahmet360/archetype_design_persusion/pull/27). This research-draft integration is completed; the remaining assignment requirements are listed in the progress tracker.
 
-_Not chosen yet. Ask the AI for candidates and reasons, challenge its assumptions, and make my own selection._
+Earlier management work included setting up the public fork-and-PR workflow, enabling Issues, organizing the agreed page allocation, integrating the October 1 instructor update through [PR #8](https://github.com/ahmet360/archetype_design_persusion/pull/8), and authorizing the team's research merges. Issue #28 was created on October 10 to document the current handoff; it is not a claim that these earlier activities had a planning issue at the time.
 
-## Why the AI suggested it and whether I agree
+## Learning reflection
 
-_Record the recommendation accurately, then explain my agreement, disagreement, or changes in my own words._
+I learned that assigning a task is not enough to know it will be finished. As the group leader, I need to check in regularly and look at the actual work, because a contribution can move away from the agreed topic or stop halfway. For future projects, I would set clear checkpoints and verify what is complete before counting a task as done.
 
-## Visual and verbal direction
+## Credits and review
 
-| Element | Proposed choice | My reason / confirmation |
-| --- | --- | --- |
-| Imagery | To discuss | Pending |
-| Colors | To discuss | Pending |
-| Fonts | To discuss | Pending |
-| Sample phrasing | To discuss | Pending |
+Timothy Bailey, Jeshan Ahmad, and Avyay Kaushik authored their respective submitted research and personal reflections. The instructor supplied the assignment, reference templates, and optional tutorials.
 
-## Applying persuasion to my personal brand
+Codex assisted with repository setup, documentation, content checks, and merges under my direction. The reflection above is an edited version of the experience I described on October 10. Agent-assisted review and automated checks are recorded separately from student peer review.
 
-_Explain specific, truthful applications of Cialdini's principles to my chosen context. Identify the principle, the example, why it fits, and how it preserves the audience's ability to choose. Verify explanations with real sources._
-
-## Sources and image credits
-
-_Add only material actually consulted and credit any visuals._
-
-## Review and submission
-
-- [ ] My own choices and reasoning are recorded.
-- [ ] I can explain the archetype and persuasion examples.
-- [ ] Sources and visual credits are checked.
-- [ ] Another member reviewed the page through a PR.
-- [ ] After merge, my fork is synchronized.
-- [ ] I submitted my own fork URL to Canvas and verified the receipt.
+The repository is public and teammates contribute through forks and pull requests. No final Canvas receipt is verified here.
