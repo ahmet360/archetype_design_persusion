@@ -25,3 +25,4 @@ TODO: Explain how this topic can inform content, layout, typography, color, imag
 ## Sources
 
 TODO: Cite the sources used. Credit any images and include meaningful alternative text.
+
